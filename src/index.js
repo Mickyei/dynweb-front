@@ -7,6 +7,9 @@ import ShoppingCart from './views/ShoppingCart';
 import Contact from './views/Contact';
 import Games from './views/Games';
 import './index.css';
+import axios from 'axios';
+
+axios.defaults.baseURL = 'http://localhost:8080';
 
 ReactDOM.render(
     <Router history={browserHistory}>

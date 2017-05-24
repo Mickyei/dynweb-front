@@ -1,6 +1,6 @@
 .header {
     text-align: center;
-    background: #3b1dff;
+    background: #673AB7;
     background-size: cover;
     position: relative;
     overflow: visible;
@@ -13,12 +13,12 @@
     float: none;
     position: absolute;
     text-align: center;
-    background: #020110;
+    background: #7E57C2;
     margin: 0 auto;
     bottom: 0;
     width: 100%; }
 .header-subnav li {
-    background: #020110;
+    background: #7E57C2;
     float: none;
     display: inline-block; }
 .header-subnav li a {

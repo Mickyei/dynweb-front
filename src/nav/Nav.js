@@ -13,9 +13,9 @@ class Nav extends Component {
                 <header className="header">
                     <h1 className="headline"> Jamppa E-Store</h1>
                     <ul className="header-subnav">
-                        <li><Link to="/games"> Pelit </Link></li>
-                        <li><Link to="/contact"> Yhteystiedot</Link> </li>
-                        <li><Link to="/shoppingcart">Ostoskori</Link></li>
+                        <li><Link to="/games"> Games </Link></li>
+                        <li><Link to="/contact"> Contact</Link> </li>
+                        <li><Link to="/shoppingcart">Shopping Cart</Link></li>
                     </ul>
                 </header>
             </div>
